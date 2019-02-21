@@ -1,0 +1,11 @@
+{ "keys":
+[{
+  "kty": "RSA",
+  "d": "IyF1qp67ghJRZ8p1OZ9OvqFgDOuVTSWTo-ltg_nDZf2VkKmH_MGCXW-tveIZSeMRNVTuHWJPdjfXLnWuNX2rERlTcJ_GnPNGXQdZdYdrUo0YkbzMRfloZn6cefByL450h6lqbbobeyhAuFlupmzO6GTNoL0Vb8a7RBZtUXz-7Bal9k8lnoIkdvPfd0LaYAlP__kMNCr9ikWhLN_otpADuxCL6scDRO6y2LkQwr5M01NZWk2_z_1Oh3L59a_QNVE-tfHrWZN2X7XG3z0yILfj_SQK7ySjLbOedXwuIc7T05CTIf62of5PaVywr5Lw2gnKNAiJoi3ZyJkCsXS01K198Q",
+  "e": "AQAB",
+  "use": "sig",
+  "kid": "istio-tutorial",
+  "alg": "RS256",
+  "n": "v6PLPe5RExa0JOdC3iGBNphI7IQo7YXgaPIYPIAtrhx1ajmL9c3HTAeRfCPH1J-fsbcyzlw9uHlRUczfuKgX1tckTv6_c2eAfx7HovF8WwnpN7q_aL7jqFvGZMQgN-1V6xLsgXtRCrDxZS0GWM1bWo4K8Vrc8c_oXXPR-M3vD8QQmG2A02gN-WSGnxFupicTFqVl1IxpWsbBy_gJ4XT5SWvP3AmegBj6nqhJ71zXLyCSrljzd6StKtqxOm9TtsIZrcwrb0DdPawjsAK-60yv5M7azj6-zMSsJ5oH_8dwozQavIgdNf-napH9oyZGT-rGzm0Ib5Lp7eg_NPRQPomfaw"
+}]
+}

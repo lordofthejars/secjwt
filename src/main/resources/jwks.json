@@ -1,0 +1,10 @@
+{ "keys":
+[{
+  "kty": "RSA",
+  "e": "AQAB",
+  "use": "sig",
+  "kid": "istio-tutorial",
+  "alg": "RS256",
+  "n": "v6PLPe5RExa0JOdC3iGBNphI7IQo7YXgaPIYPIAtrhx1ajmL9c3HTAeRfCPH1J-fsbcyzlw9uHlRUczfuKgX1tckTv6_c2eAfx7HovF8WwnpN7q_aL7jqFvGZMQgN-1V6xLsgXtRCrDxZS0GWM1bWo4K8Vrc8c_oXXPR-M3vD8QQmG2A02gN-WSGnxFupicTFqVl1IxpWsbBy_gJ4XT5SWvP3AmegBj6nqhJ71zXLyCSrljzd6StKtqxOm9TtsIZrcwrb0DdPawjsAK-60yv5M7azj6-zMSsJ5oH_8dwozQavIgdNf-napH9oyZGT-rGzm0Ib5Lp7eg_NPRQPomfaw"
+}]
+}
